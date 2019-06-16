@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 3fe5ab83296b8914982da9aa0df04e13
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bruskorb
+    100002: Fuss_L
+    100004: Fuss_R
+    100006: "H\xFCfte"
+    100008: //RootNode
+    100010: Knie_L
+    100012: Knie_R
+    100014: Knie_Zylinder_L
+    100016: Knie_Zylinder_R
+    100018: Oberarm_L
+    100020: Oberarm_R
+    100022: "Oberk\xF6rper"
+    100024: Oberschenkel_L
+    100026: Oberschenkel_R
+    100028: Schultergelenk
+    100030: Schulterverbreiterung
+    100032: Unterarm_L
+    100034: Unterarm_L_Lauf_Oben
+    100036: Unterarm_L_Lauf_Unten
+    100038: Unterarm_R
+    100040: Unterarm_R_Lauf_Oben
+    100042: Unterarm_R_Lauf_Unten
+    100044: "Unterk\xF6rper"
+    100046: Unterschenkel_L
+    100048: Unterschenkel_R
+    400000: Bruskorb
+    400002: Fuss_L
+    400004: Fuss_R
+    400006: "H\xFCfte"
+    400008: //RootNode
+    400010: Knie_L
+    400012: Knie_R
+    400014: Knie_Zylinder_L
+    400016: Knie_Zylinder_R
+    400018: Oberarm_L
+    400020: Oberarm_R
+    400022: "Oberk\xF6rper"
+    400024: Oberschenkel_L
+    400026: Oberschenkel_R
+    400028: Schultergelenk
+    400030: Schulterverbreiterung
+    400032: Unterarm_L
+    400034: Unterarm_L_Lauf_Oben
+    400036: Unterarm_L_Lauf_Unten
+    400038: Unterarm_R
+    400040: Unterarm_R_Lauf_Oben
+    400042: Unterarm_R_Lauf_Unten
+    400044: "Unterk\xF6rper"
+    400046: Unterschenkel_L
+    400048: Unterschenkel_R
+    2100000: lambert2
+    2300000: Bruskorb
+    2300002: Fuss_L
+    2300004: Fuss_R
+    2300006: "H\xFCfte"
+    2300008: Knie_L
+    2300010: Knie_R
+    2300012: Knie_Zylinder_L
+    2300014: Knie_Zylinder_R
+    2300016: Oberarm_L
+    2300018: Oberarm_R
+    2300020: "Oberk\xF6rper"
+    2300022: Oberschenkel_L
+    2300024: Oberschenkel_R
+    2300026: Schultergelenk
+    2300028: Schulterverbreiterung
+    2300030: Unterarm_L
+    2300032: Unterarm_L_Lauf_Oben
+    2300034: Unterarm_L_Lauf_Unten
+    2300036: Unterarm_R
+    2300038: Unterarm_R_Lauf_Oben
+    2300040: Unterarm_R_Lauf_Unten
+    2300042: "Unterk\xF6rper"
+    2300044: Unterschenkel_L
+    2300046: Unterschenkel_R
+    3300000: Bruskorb
+    3300002: Fuss_L
+    3300004: Fuss_R
+    3300006: "H\xFCfte"
+    3300008: Knie_L
+    3300010: Knie_R
+    3300012: Knie_Zylinder_L
+    3300014: Knie_Zylinder_R
+    3300016: Oberarm_L
+    3300018: Oberarm_R
+    3300020: "Oberk\xF6rper"
+    3300022: Oberschenkel_L
+    3300024: Oberschenkel_R
+    3300026: Schultergelenk
+    3300028: Schulterverbreiterung
+    3300030: Unterarm_L
+    3300032: Unterarm_L_Lauf_Oben
+    3300034: Unterarm_L_Lauf_Unten
+    3300036: Unterarm_R
+    3300038: Unterarm_R_Lauf_Oben
+    3300040: Unterarm_R_Lauf_Unten
+    3300042: "Unterk\xF6rper"
+    3300044: Unterschenkel_L
+    3300046: Unterschenkel_R
+    4300000: Schultergelenk
+    4300002: "Oberk\xF6rper"
+    4300004: Schulterverbreiterung
+    4300006: Bruskorb
+    4300008: "Unterk\xF6rper"
+    4300010: Oberarm_R
+    4300012: Oberarm_L
+    4300014: Unterarm_L
+    4300016: Unterarm_R
+    4300018: Unterarm_L_Lauf_Unten
+    4300020: Unterarm_L_Lauf_Oben
+    4300022: Unterarm_R_Lauf_Unten
+    4300024: Unterarm_R_Lauf_Oben
+    4300026: Oberschenkel_L
+    4300028: Knie_Zylinder_L
+    4300030: Knie_L
+    4300032: Unterschenkel_L
+    4300034: Fuss_L
+    4300036: "H\xFCfte"
+    4300038: Oberschenkel_R
+    4300040: Knie_Zylinder_R
+    4300042: Knie_R
+    4300044: Unterschenkel_R
+    4300046: Fuss_R
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

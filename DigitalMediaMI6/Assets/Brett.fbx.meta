@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 188c63181732748efa61294e98e9f549
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bauer
+    100002: Bauer 1
+    100004: Bauer 2
+    100006: Bauer 3
+    100008: Bauer 4
+    100010: Bauer 5
+    100012: Bauer 6
+    100014: BauerS
+    100016: BauerS1
+    100018: BauerS2
+    100020: BauerS3
+    100022: BauerS4
+    100024: BauerS5
+    100026: BauerS6
+    100028: BauerS7
+    100030: BauerW
+    100032: BauerW3
+    100034: BauerW4
+    100036: BauerW5
+    100038: BauerW6
+    100040: BauerW7
+    100042: BauerW8
+    100044: BauerW9
+    100046: //RootNode
+    100048: DameS
+    100050: DameW
+    100052: Feld
+    100054: group10
+    100056: group11
+    100058: KaS
+    100060: KaS1
+    100062: KaW
+    100064: KaW1
+    100066: "K\xF6nigS"
+    100068: "K\xF6nigW"
+    100070: pasted__Bauer
+    100072: pasted__Bauer 1
+    100074: pasted__Bauer 2
+    100076: pasted__Bauer 3
+    100078: pasted__Bauer 4
+    100080: pasted__Bauer 5
+    100082: pasted__Bauer 6
+    100084: pasted__pasted__pCylinder1
+    100086: pasted__pCylinder1
+    100088: pasted__PferdS2
+    100090: pasted__TurmS2
+    100092: PferdS
+    100094: PferdS2
+    100096: PferdS3
+    100098: PferdW
+    100100: PferdW1
+    100102: TurmS
+    100104: TurmS2
+    100106: TurmS3
+    100108: TurmW
+    100110: TurmW1
+    400000: Bauer
+    400002: Bauer 1
+    400004: Bauer 2
+    400006: Bauer 3
+    400008: Bauer 4
+    400010: Bauer 5
+    400012: Bauer 6
+    400014: BauerS
+    400016: BauerS1
+    400018: BauerS2
+    400020: BauerS3
+    400022: BauerS4
+    400024: BauerS5
+    400026: BauerS6
+    400028: BauerS7
+    400030: BauerW
+    400032: BauerW3
+    400034: BauerW4
+    400036: BauerW5
+    400038: BauerW6
+    400040: BauerW7
+    400042: BauerW8
+    400044: BauerW9
+    400046: //RootNode
+    400048: DameS
+    400050: DameW
+    400052: Feld
+    400054: group10
+    400056: group11
+    400058: KaS
+    400060: KaS1
+    400062: KaW
+    400064: KaW1
+    400066: "K\xF6nigS"
+    400068: "K\xF6nigW"
+    400070: pasted__Bauer
+    400072: pasted__Bauer 1
+    400074: pasted__Bauer 2
+    400076: pasted__Bauer 3
+    400078: pasted__Bauer 4
+    400080: pasted__Bauer 5
+    400082: pasted__Bauer 6
+    400084: pasted__pasted__pCylinder1
+    400086: pasted__pCylinder1
+    400088: pasted__PferdS2
+    400090: pasted__TurmS2
+    400092: PferdS
+    400094: PferdS2
+    400096: PferdS3
+    400098: PferdW
+    400100: PferdW1
+    400102: TurmS
+    400104: TurmS2
+    400106: TurmS3
+    400108: TurmW
+    400110: TurmW1
+    2100000: lambert1
+    2300000: Bauer
+    2300002: Bauer 1
+    2300004: Bauer 2
+    2300006: Bauer 3
+    2300008: Bauer 4
+    2300010: Bauer 5
+    2300012: Bauer 6
+    2300014: BauerS
+    2300016: BauerW
+    2300018: DameS
+    2300020: DameW
+    2300022: Feld
+    2300024: KaS
+    2300026: KaW
+    2300028: "K\xF6nigS"
+    2300030: "K\xF6nigW"
+    2300032: pasted__Bauer
+    2300034: pasted__Bauer 1
+    2300036: pasted__Bauer 2
+    2300038: pasted__Bauer 3
+    2300040: pasted__Bauer 4
+    2300042: pasted__Bauer 5
+    2300044: pasted__Bauer 6
+    2300046: pasted__pasted__pCylinder1
+    2300048: pasted__pCylinder1
+    2300050: pasted__PferdS2
+    2300052: pasted__TurmS2
+    2300054: PferdS
+    2300056: PferdS2
+    2300058: PferdW
+    2300060: TurmS
+    2300062: TurmS2
+    2300064: TurmW
+    3300000: Bauer
+    3300002: Bauer 1
+    3300004: Bauer 2
+    3300006: Bauer 3
+    3300008: Bauer 4
+    3300010: Bauer 5
+    3300012: Bauer 6
+    3300014: BauerS
+    3300016: BauerW
+    3300018: DameS
+    3300020: DameW
+    3300022: Feld
+    3300024: KaS
+    3300026: KaW
+    3300028: "K\xF6nigS"
+    3300030: "K\xF6nigW"
+    3300032: pasted__Bauer
+    3300034: pasted__Bauer 1
+    3300036: pasted__Bauer 2
+    3300038: pasted__Bauer 3
+    3300040: pasted__Bauer 4
+    3300042: pasted__Bauer 5
+    3300044: pasted__Bauer 6
+    3300046: pasted__pasted__pCylinder1
+    3300048: pasted__pCylinder1
+    3300050: pasted__PferdS2
+    3300052: pasted__TurmS2
+    3300054: PferdS
+    3300056: PferdS2
+    3300058: PferdW
+    3300060: TurmS
+    3300062: TurmS2
+    3300064: TurmW
+    4300000: Feld
+    4300002: TurmS
+    4300004: TurmS2
+    4300006: PferdS
+    4300008: PferdS2
+    4300010: KaS
+    4300012: pasted__pCylinder1
+    4300014: BauerS
+    4300016: Bauer
+    4300018: Bauer
+    4300020: Bauer
+    4300022: Bauer
+    4300024: Bauer
+    4300026: Bauer
+    4300028: Bauer
+    4300030: "K\xF6nigS"
+    4300032: DameS
+    4300034: BauerW
+    4300036: pasted__Bauer
+    4300038: pasted__Bauer
+    4300040: pasted__Bauer
+    4300042: pasted__Bauer
+    4300044: pasted__Bauer
+    4300046: pasted__Bauer
+    4300048: pasted__Bauer
+    4300050: TurmW
+    4300052: pasted__TurmS2
+    4300054: PferdW
+    4300056: pasted__PferdS2
+    4300058: KaW
+    4300060: pasted__pasted__pCylinder1
+    4300062: "K\xF6nigW"
+    4300064: DameW
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
