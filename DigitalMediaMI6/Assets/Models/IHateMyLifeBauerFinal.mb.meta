@@ -28,6 +28,7 @@ ModelImporter:
     100044: "Unterk\xF6rper"
     100046: Unterschenkel_L
     100048: Unterschenkel_R
+    100050: transform3
     400000: Bruskorb
     400002: Fuss_L
     400004: Fuss_R
@@ -53,7 +54,9 @@ ModelImporter:
     400044: "Unterk\xF6rper"
     400046: Unterschenkel_L
     400048: Unterschenkel_R
+    400050: transform3
     2100000: lambert2
+    2100002: Default_Material
     2300000: Bruskorb
     2300002: Fuss_L
     2300004: Fuss_R
@@ -78,6 +81,7 @@ ModelImporter:
     2300042: "Unterk\xF6rper"
     2300044: Unterschenkel_L
     2300046: Unterschenkel_R
+    2300048: transform3
     3300000: Bruskorb
     3300002: Fuss_L
     3300004: Fuss_R
@@ -102,6 +106,7 @@ ModelImporter:
     3300042: "Unterk\xF6rper"
     3300044: Unterschenkel_L
     3300046: Unterschenkel_R
+    3300048: transform3
     4300000: Schultergelenk
     4300002: "Oberk\xF6rper"
     4300004: Schulterverbreiterung
@@ -126,6 +131,8 @@ ModelImporter:
     4300042: Knie_R
     4300044: Unterschenkel_R
     4300046: Fuss_R
+    4300048: transform3
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
