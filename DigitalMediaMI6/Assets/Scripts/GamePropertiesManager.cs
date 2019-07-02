@@ -34,7 +34,7 @@ public class GamePropertiesManager
 
 	public GamePropertiesManager()
 	{
-		clientMode = ClientMode.OnePlayer;
+		clientMode = ClientMode.TwoPlayers;
 		inputType = InputType.Mouse;
 	}
 

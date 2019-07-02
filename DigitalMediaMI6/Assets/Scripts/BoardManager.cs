@@ -16,7 +16,19 @@ public class BoardManager : MonoBehaviour
 	private Client client;
 	private ChessPieceSpawner spawner;
 	private SelectionManager selection;
-	
+	public GameObject camera1;
+	public GameObject camera2;
+
+
+	private void IsHostCamera ()
+	{	
+		if (client.isHost == true) {
+			camera1.SetActive( true );
+		} else if(client.isHost == false) {
+			camera2.SetActive( true );
+		}
+	}
+
 	private bool IsMyTurn
 	{
 		get
@@ -36,11 +48,15 @@ public class BoardManager : MonoBehaviour
 
 		spawner.SpawnAllPieces();
 
+		IsHostCamera();
+
 		isWhiteTurn = true;
 	}
 
 	private void Update()
 	{
+		IsHostCamera();	
+
 		bool IsInputPressed = false;
 
 		DrawBoard.Update();
