@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class Pawn : ChessPiece {
 
-    public override bool[, ] PossibleMove () {
+	Animator anim;
+	int walkHash = Animator.StringToHash( "WalkAnimation" );
+
+	public override bool[, ] PossibleMove () {
         bool[, ] r = new bool[8, 8];
 
         ChessPiece c, c2;
@@ -73,6 +76,13 @@ public class Pawn : ChessPiece {
             }
 
         }
+
+		Animator anim; 
+
+
+
+
+
         return r;
     }
 
