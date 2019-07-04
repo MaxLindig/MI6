@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/fabio_scene.unity
     guid: 924857238c0cc4556a97a73f6fe834f9
+  - enabled: 1
+    path: Assets/Scenes/Dunes.unity
+    guid: 578010cced828d947af900c688beef65
   m_configObjects: {}

@@ -108,6 +108,6 @@ public class GameManager : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("fabio_scene");
+        SceneManager.LoadScene("Dunes");
     }
 }

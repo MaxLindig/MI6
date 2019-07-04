@@ -35,7 +35,7 @@ public class GamePropertiesManager
 	public GamePropertiesManager()
 	{
 		clientMode = ClientMode.OnePlayer;
-		inputType = InputType.Mouse;
+		inputType = InputType.VR;
 	}
 
 	#region Code

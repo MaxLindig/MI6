@@ -238,7 +238,7 @@ public class BoardManager : MonoBehaviour
 	{
 
 		timeToArrive = 1.0f;
-		//float timePercentage = 0.0f;
+		float timePercentage = 0.0f;
 
 		Vector3 start = new Vector3(),
 				end = new Vector3();
