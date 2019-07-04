@@ -174,7 +174,7 @@ public class BoardManager : MonoBehaviour
 		}
 		//checkMoveAnimation();
 		StartCoroutine( MoveToDestinationInTime() );
-		pawn.Animation();
+		//pawn.Animation();
 
 		selection.MoveChessPiece();
 
