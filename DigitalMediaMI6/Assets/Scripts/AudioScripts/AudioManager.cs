@@ -32,7 +32,7 @@ public class AudioManager : MonoBehaviour
     }
 
     void Start(){
-        Play("Theme");
+        Play("inGame");
     }
 
     public void Play(string name)

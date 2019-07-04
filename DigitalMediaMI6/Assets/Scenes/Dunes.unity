@@ -1322,7 +1322,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c52963611592b1f4e850fc927ddad8c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
+--- !u!81 &1149825732
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1149825727}
+  m_Enabled: 1
 --- !u!1001 &1150264007
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2247,11 +2254,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - name: 
-    clip: {fileID: 0}
-    volume: 0
-    pitch: 0
-    loop: 0
+  - name: inGame
+    clip: {fileID: 8300000, guid: 1c3036c6a3ed9eb4bb20173a9980d6ed, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: menue
+    clip: {fileID: 8300000, guid: baed335b87813c141b21bd338647963b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
     source: {fileID: 0}
 --- !u!1001 &1502732770
 PrefabInstance:
@@ -3800,6 +3813,14 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2009677047}
   m_PrefabAsset: {fileID: 0}
+--- !u!81 &2009677054
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2009677048}
+  m_Enabled: 1
 --- !u!1001 &2024195595
 PrefabInstance:
   m_ObjectHideFlags: 0
