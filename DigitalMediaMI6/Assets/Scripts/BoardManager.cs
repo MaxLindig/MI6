@@ -19,12 +19,6 @@ public class BoardManager : MonoBehaviour
 	private SelectionManager selection;
 	public GameObject camera1;
 	public GameObject camera2;
-	public GameObject pointer1;
-	public GameObject pointer2;
-	public GameObject event1;
-	public GameObject event2;
-	public GameObject reticule1;
-	public GameObject reticule2;
 
 	float timePercentage = 0.0f;
 
@@ -37,16 +31,10 @@ public class BoardManager : MonoBehaviour
 		if( client.isHost == true )
 		{
 			camera1.SetActive( true );
-			pointer1.SetActive( true );
-			event1.SetActive( true );
-			reticule1.SetActive( true );
 		}
 		else if( client.isHost == false )
 		{
 			camera2.SetActive( true );
-			pointer2.SetActive( true );
-			event2.SetActive( true );
-			reticule2.SetActive( true );
 		}
 	}
 
