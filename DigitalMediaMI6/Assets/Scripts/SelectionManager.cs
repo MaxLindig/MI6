@@ -147,4 +147,5 @@ public class SelectionManager
 		field.x = -1;
 		field.y = -1;
 	}
+
 }
