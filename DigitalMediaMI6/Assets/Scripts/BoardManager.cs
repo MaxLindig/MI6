@@ -19,6 +19,10 @@ public class BoardManager : MonoBehaviour
 	private SelectionManager selection;
 	public GameObject camera1;
 	public GameObject camera2;
+
+	float timePercentage = 0.0f;
+
+	Pawn pawn;
 	
 	private float timeToArrive;
 
@@ -91,6 +95,7 @@ public class BoardManager : MonoBehaviour
 			return;
 
 		selection.Click( Xd, Yd );
+
 		MoveSelectedChessPiece();
 	}
 
@@ -126,6 +131,7 @@ public class BoardManager : MonoBehaviour
 			case ClickAction.Move:
 				DebugLogger.Log( "ProcessTurn", "Move" );
 				{
+					
 					SendMoveSelectedChessPieceMessage();
 					MoveSelectedChessPiece();
 				}
@@ -166,8 +172,10 @@ public class BoardManager : MonoBehaviour
 			spawner.RemoveChessPiece( victimPiece );
 			DestroyImmediate( victimPiece.gameObject );
 		}
-
+		//checkMoveAnimation();
 		StartCoroutine( MoveToDestinationInTime() );
+		pawn.Animation();
+
 		selection.MoveChessPiece();
 
 		ToggleTurn();
@@ -228,8 +236,9 @@ public class BoardManager : MonoBehaviour
 
 	public IEnumerator MoveToDestinationInTime()
 	{
+
 		timeToArrive = 1.0f;
-		float timePercentage = 0.0f;
+		//float timePercentage = 0.0f;
 
 		Vector3 start = new Vector3(),
 				end = new Vector3();
@@ -251,4 +260,20 @@ public class BoardManager : MonoBehaviour
 			yield return null;
 		}
 	}
+
+	public void checkMoveAnimation() {
+		/*Debug.Log( "# Animation in Pawn aufgerufen #" );
+		 ### anim
+		//anim = GetComponent<Animator>();
+		//anim = pawnWhitePrefab.GetComponent<Animator>();
+		anim.SetBool( "isWalking", true );
+		*/
+		
+		/*if(timePercentage < 1.5f) {
+			pawn.Animation();
+		} */
+
+
+	}
+
 }

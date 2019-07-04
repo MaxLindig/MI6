@@ -5,7 +5,7 @@ using UnityEngine;
 public class Pawn : ChessPiece {
 
 	Animator anim;
-	int walkHash = Animator.StringToHash( "WalkAnimation" );
+	//int walkHash = Animator.StringToHash( "WalkAnimation" );
 
 	public override bool[, ] PossibleMove () {
         bool[, ] r = new bool[8, 8];
@@ -77,13 +77,17 @@ public class Pawn : ChessPiece {
 
         }
 
-		Animator anim; 
+		return r;
+	}
 
+	public void Animation()
+	{
+		Debug.Log( "# Animation in Pawn aufgerufen #" );
+		//### anim
+		anim = GetComponent<Animator>();
+		//anim = pawnWhitePrefab.GetComponent<Animator>();
+		anim.SetBool( "isWalking", true );
+	}
 
-
-
-
-        return r;
-    }
 
 }
