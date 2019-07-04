@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 54590c144bdfb714c8d23475ea5c4e91
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmLinks
+    100002: ArmLinks 1
+    100004: ArmLinks2
+    100006: BeinLinks
+    100008: BodyRechts
+    100010: BodyRechts 1
+    100012: BodyRechts2
+    100014: Fuss_L
+    100016: Fuss_R
+    100018: FussLinks
+    100020: FussRechts
+    100022: Gelenk2Links
+    100024: Gelenk2Rechts
+    100026: GelenkLinks
+    100028: GelenkRechts
+    100030: group1
+    100032: group2
+    100034: group3
+    100036: group4
+    100038: Huefte
+    100040: Huefte2
+    100042: Knie_L
+    100044: Knie_R
+    100046: LaufRechts
+    100048: LaufRechts 1
+    100050: LaufRechts2
+    100052: MainBody
+    100054: MainHuefte
+    100056: Oberkoerper
+    100058: Oberschenkel_L
+    100060: Oberschenkel_R
+    100062: PlatteLinks
+    100064: PlatteRechts
+    100066: SBeinRechts
+    100068: SchenkelLinks
+    100070: SchenkelRechts
+    100072: transform1
+    100074: transform2
+    100076: transform3
+    100078: transform4
+    100080: transform5
+    100082: transform6
+    100084: //RootNode
+    100086: Unterkoerper
+    100088: Waffe2Rechts
+    100090: Waffe2Rechts 1
+    100092: Waffe2Rechts2
+    100094: WaffeRechts
+    100096: WaffeRechts 1
+    100098: WaffeRechts2
+    100100: WerferRechts
+    100102: WerferRechts 1
+    100104: WerferRechts2
+    100106: ZeheLinks
+    100108: ZeheRechts
+    400000: ArmLinks
+    400002: ArmLinks 1
+    400004: ArmLinks2
+    400006: BeinLinks
+    400008: BodyRechts
+    400010: BodyRechts 1
+    400012: BodyRechts2
+    400014: Fuss_L
+    400016: Fuss_R
+    400018: FussLinks
+    400020: FussRechts
+    400022: Gelenk2Links
+    400024: Gelenk2Rechts
+    400026: GelenkLinks
+    400028: GelenkRechts
+    400030: group1
+    400032: group2
+    400034: group3
+    400036: group4
+    400038: Huefte
+    400040: Huefte2
+    400042: Knie_L
+    400044: Knie_R
+    400046: LaufRechts
+    400048: LaufRechts 1
+    400050: LaufRechts2
+    400052: MainBody
+    400054: MainHuefte
+    400056: Oberkoerper
+    400058: Oberschenkel_L
+    400060: Oberschenkel_R
+    400062: PlatteLinks
+    400064: PlatteRechts
+    400066: SBeinRechts
+    400068: SchenkelLinks
+    400070: SchenkelRechts
+    400072: transform1
+    400074: transform2
+    400076: transform3
+    400078: transform4
+    400080: transform5
+    400082: transform6
+    400084: //RootNode
+    400086: Unterkoerper
+    400088: Waffe2Rechts
+    400090: Waffe2Rechts 1
+    400092: Waffe2Rechts2
+    400094: WaffeRechts
+    400096: WaffeRechts 1
+    400098: WaffeRechts2
+    400100: WerferRechts
+    400102: WerferRechts 1
+    400104: WerferRechts2
+    400106: ZeheLinks
+    400108: ZeheRechts
+    2100000: lambert1
+    2300000: ArmLinks 1
+    2300002: ArmLinks2
+    2300004: BeinLinks
+    2300006: BodyRechts 1
+    2300008: BodyRechts2
+    2300010: FussLinks
+    2300012: FussRechts
+    2300014: Gelenk2Links
+    2300016: Gelenk2Rechts
+    2300018: GelenkLinks
+    2300020: GelenkRechts
+    2300022: Huefte
+    2300024: Huefte2
+    2300026: LaufRechts 1
+    2300028: LaufRechts2
+    2300030: MainBody
+    2300032: MainHuefte
+    2300034: PlatteLinks
+    2300036: PlatteRechts
+    2300038: SBeinRechts
+    2300040: SchenkelLinks
+    2300042: SchenkelRechts
+    2300044: Waffe2Rechts 1
+    2300046: Waffe2Rechts2
+    2300048: WaffeRechts 1
+    2300050: WaffeRechts2
+    2300052: WerferRechts 1
+    2300054: WerferRechts2
+    2300056: ZeheLinks
+    2300058: ZeheRechts
+    3300000: ArmLinks 1
+    3300002: ArmLinks2
+    3300004: BeinLinks
+    3300006: BodyRechts 1
+    3300008: BodyRechts2
+    3300010: FussLinks
+    3300012: FussRechts
+    3300014: Gelenk2Links
+    3300016: Gelenk2Rechts
+    3300018: GelenkLinks
+    3300020: GelenkRechts
+    3300022: Huefte
+    3300024: Huefte2
+    3300026: LaufRechts 1
+    3300028: LaufRechts2
+    3300030: MainBody
+    3300032: MainHuefte
+    3300034: PlatteLinks
+    3300036: PlatteRechts
+    3300038: SBeinRechts
+    3300040: SchenkelLinks
+    3300042: SchenkelRechts
+    3300044: Waffe2Rechts 1
+    3300046: Waffe2Rechts2
+    3300048: WaffeRechts 1
+    3300050: WaffeRechts2
+    3300052: WerferRechts 1
+    3300054: WerferRechts2
+    3300056: ZeheLinks
+    3300058: ZeheRechts
+    4300000: FussRechts
+    4300002: ZeheRechts
+    4300004: PlatteRechts
+    4300006: SBeinRechts
+    4300008: GelenkRechts
+    4300010: SchenkelRechts
+    4300012: Gelenk2Rechts
+    4300014: FussLinks
+    4300016: ZeheLinks
+    4300018: PlatteLinks
+    4300020: BeinLinks
+    4300022: GelenkLinks
+    4300024: Gelenk2Links
+    4300026: SchenkelLinks
+    4300028: Huefte
+    4300030: MainHuefte
+    4300032: ArmLinks2
+    4300034: Waffe2Rechts2
+    4300036: BodyRechts2
+    4300038: WerferRechts2
+    4300040: LaufRechts2
+    4300042: WaffeRechts2
+    4300044: LaufRechts
+    4300046: WaffeRechts
+    4300048: WerferRechts
+    4300050: Waffe2Rechts
+    4300052: ArmLinks
+    4300054: BodyRechts
+    4300056: Huefte2
+    4300058: MainBody
+    6400000: ArmLinks 1
+    6400002: ArmLinks2
+    6400004: BeinLinks
+    6400006: BodyRechts 1
+    6400008: BodyRechts2
+    6400010: FussLinks
+    6400012: FussRechts
+    6400014: Gelenk2Links
+    6400016: Gelenk2Rechts
+    6400018: GelenkLinks
+    6400020: GelenkRechts
+    6400022: Huefte
+    6400024: Huefte2
+    6400026: LaufRechts 1
+    6400028: LaufRechts2
+    6400030: MainBody
+    6400032: MainHuefte
+    6400034: PlatteLinks
+    6400036: PlatteRechts
+    6400038: SBeinRechts
+    6400040: SchenkelLinks
+    6400042: SchenkelRechts
+    6400044: Waffe2Rechts 1
+    6400046: Waffe2Rechts2
+    6400048: WaffeRechts 1
+    6400050: WaffeRechts2
+    6400052: WerferRechts 1
+    6400054: WerferRechts2
+    6400056: ZeheLinks
+    6400058: ZeheRechts
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0bbcceed77aab5a4a925e7fb227c724b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

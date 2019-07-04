@@ -4,29 +4,29 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - pawnWhitePrefab: {fileID: 4589124291029521390, guid: d36a1e0675b9d2b458b1a1b881e8f980,
+  - pawnWhitePrefab: {fileID: 7611916569348890822, guid: 9715664a54e627045b538d62e246b82d,
       type: 3}
-  - knightWhitePrefab: {fileID: 1427588629750395387, guid: 85ad2c556fdbd5747ac7f5f67f10e59b,
+  - knightWhitePrefab: {fileID: 7791759708995798774, guid: aa04a14e446e6284a85ac9f957074216,
       type: 3}
-  - rookWhitePrefab: {fileID: 90244362114330910, guid: f1fc282519e5c4a4daaa864f9c3d446f,
+  - rookWhitePrefab: {fileID: 3761966389492785025, guid: ff025a0c429c5cc4999ddbd0d493e54c,
       type: 3}
-  - bishopWhitePrefab: {fileID: 8789715518249017799, guid: eb7c7c074b6564d4e9ee95d51a453d92,
+  - bishopWhitePrefab: {fileID: 5796569555529863605, guid: d90c47a9136a83149b9a78d4b313989f,
       type: 3}
-  - queenWhitePrefab: {fileID: 1945632463053948, guid: be3573ba2ba53ea4f8979e64874c493d,
+  - queenWhitePrefab: {fileID: 1067366395603357107, guid: 23d6b515c114cf840bf7d9032830d980,
       type: 3}
-  - kingWhitePrefab: {fileID: 1389686872840900, guid: 27d2608cb94ae2d44811af52793c3562,
+  - kingWhitePrefab: {fileID: 4725940736879118794, guid: 781d3285b3162734a9083797cb70a349,
       type: 3}
-  - pawnBlackPrefab: {fileID: 1867195236767680, guid: b1d95c04dd54e434aa65855a0f77d30f,
+  - pawnBlackPrefab: {fileID: 7436286130064474833, guid: 41e097208da7d9841be28cb46ceacddc,
       type: 3}
-  - knightBlackPrefab: {fileID: 1179637952412708, guid: a007978aa14da3945b0f6655f65cc278,
+  - knightBlackPrefab: {fileID: 1538729374794181584, guid: f84c7e76d80363842822ba7363c3f605,
       type: 3}
-  - rookBlackPrefab: {fileID: 1211746330687442, guid: a72c2cd1520039b4084a4a33dfeccf7e,
+  - rookBlackPrefab: {fileID: 4130022337826665612, guid: e09f7544558d62348b68771c3b5b9526,
       type: 3}
-  - bishopBlackPrefab: {fileID: 1672242659374470, guid: f005021ceced8b240983e71a3d481180,
+  - bishopBlackPrefab: {fileID: 241774355413436985, guid: 826dbd1343cfc6848a073e54e31a2877,
       type: 3}
-  - queenBlackPrefab: {fileID: 1471985601831630, guid: 664a4dc6e997f5f47a9233db911328ac,
+  - queenBlackPrefab: {fileID: 2375762593110979452, guid: e7f65053429a0b5479457bf21f460dfb,
       type: 3}
-  - kingBlackPrefab: {fileID: 1810274083847610, guid: 309659d4eb727d74d91c4875a85edc00,
+  - kingBlackPrefab: {fileID: 3530057737556753903, guid: 82e27a464aa067f4e9e0da399fddb8e2,
       type: 3}
   executionOrder: 0
   icon: {instanceID: 0}

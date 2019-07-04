@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 7c11ecf9b4fea8748a4e7ad845ff4332
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bruskorb
+    100004: controlGeometries1
+    100006: fromControl1
+    100008: fromDir1
+    100010: fromDirHandle1
+    100012: fromPoint1
+    100014: Fuss_L
+    100016: Fuss_L 1
+    100018: Fuss_R
+    100020: Fuss_R 1
+    100022: Huefte
+    100024: joint1
+    100026: joint2
+    100028: joint3
+    100030: joint4
+    100032: Knie_Hinten_L
+    100034: Knie_Hinten_R
+    100036: Knie_L
+    100038: Knie_L 1
+    100040: Knie_R
+    100042: Knie_R 1
+    100044: Knie_Zylinder_L
+    100046: Knie_Zylinder_R
+    100048: lightningCurve1
+    100050: lightningCurve1Particle
+    100052: LightningSurface1
+    100054: nurbsCircle1
+    100056: Oberarm_L
+    100058: Oberarm_L 1
+    100060: Oberarm_R
+    100062: Oberarm_R 1
+    100064: Oberkoerper
+    100066: "Oberk\xF6rper"
+    100068: Oberschenkel_L
+    100070: Oberschenkel_L 1
+    100072: Oberschenkel_R
+    100074: Oberschenkel_R 1
+    100076: pointLight1
+    100078: Schultergelenk
+    100080: Schulterverbreiterung
+    100082: toControl1
+    100084: toDir1
+    100086: toDirHandle1
+    100088: toPoint1
+    100090: Untekoerper
+    100092: Unterarm_L
+    100094: Unterarm_L 1
+    100096: Unterarm_L_Lauf_Oben
+    100098: Unterarm_L_Lauf_Unten
+    100100: Unterarm_R
+    100102: Unterarm_R 1
+    100104: Unterarm_R_Lauf_Oben
+    100106: Unterarm_R_Lauf_Unten
+    100108: Unterkoerper
+    100110: Unterschenkel_L
+    100112: Unterschenkel_L 1
+    100114: Unterschenkel_R
+    100116: Unterschenkel_R 1
+    100118: Verbindung
+    400000: //RootNode
+    400002: Bruskorb
+    400004: controlGeometries1
+    400006: fromControl1
+    400008: fromDir1
+    400010: fromDirHandle1
+    400012: fromPoint1
+    400014: Fuss_L
+    400016: Fuss_L 1
+    400018: Fuss_R
+    400020: Fuss_R 1
+    400022: Huefte
+    400024: joint1
+    400026: joint2
+    400028: joint3
+    400030: joint4
+    400032: Knie_Hinten_L
+    400034: Knie_Hinten_R
+    400036: Knie_L
+    400038: Knie_L 1
+    400040: Knie_R
+    400042: Knie_R 1
+    400044: Knie_Zylinder_L
+    400046: Knie_Zylinder_R
+    400048: lightningCurve1
+    400050: lightningCurve1Particle
+    400052: LightningSurface1
+    400054: nurbsCircle1
+    400056: Oberarm_L
+    400058: Oberarm_L 1
+    400060: Oberarm_R
+    400062: Oberarm_R 1
+    400064: Oberkoerper
+    400066: "Oberk\xF6rper"
+    400068: Oberschenkel_L
+    400070: Oberschenkel_L 1
+    400072: Oberschenkel_R
+    400074: Oberschenkel_R 1
+    400076: pointLight1
+    400078: Schultergelenk
+    400080: Schulterverbreiterung
+    400082: toControl1
+    400084: toDir1
+    400086: toDirHandle1
+    400088: toPoint1
+    400090: Untekoerper
+    400092: Unterarm_L
+    400094: Unterarm_L 1
+    400096: Unterarm_L_Lauf_Oben
+    400098: Unterarm_L_Lauf_Unten
+    400100: Unterarm_R
+    400102: Unterarm_R 1
+    400104: Unterarm_R_Lauf_Oben
+    400106: Unterarm_R_Lauf_Unten
+    400108: Unterkoerper
+    400110: Unterschenkel_L
+    400112: Unterschenkel_L 1
+    400114: Unterschenkel_R
+    400116: Unterschenkel_R 1
+    400118: Verbindung
+    2100000: lambert2
+    2300000: Bruskorb
+    2300002: Fuss_L 1
+    2300004: Fuss_R 1
+    2300006: Huefte
+    2300008: Knie_L 1
+    2300010: Knie_R 1
+    2300012: Knie_Zylinder_L
+    2300014: Knie_Zylinder_R
+    2300016: Oberarm_L 1
+    2300018: Oberarm_R 1
+    2300020: "Oberk\xF6rper"
+    2300022: Oberschenkel_L 1
+    2300024: Oberschenkel_R 1
+    2300026: Schultergelenk
+    2300028: Schulterverbreiterung
+    2300030: Unterarm_L 1
+    2300032: Unterarm_L_Lauf_Oben
+    2300034: Unterarm_L_Lauf_Unten
+    2300036: Unterarm_R 1
+    2300038: Unterarm_R_Lauf_Oben
+    2300040: Unterarm_R_Lauf_Unten
+    2300042: Unterkoerper
+    2300044: Unterschenkel_L 1
+    2300046: Unterschenkel_R 1
+    3300000: Bruskorb
+    3300002: Fuss_L 1
+    3300004: Fuss_R 1
+    3300006: Huefte
+    3300008: Knie_L 1
+    3300010: Knie_R 1
+    3300012: Knie_Zylinder_L
+    3300014: Knie_Zylinder_R
+    3300016: Oberarm_L 1
+    3300018: Oberarm_R 1
+    3300020: "Oberk\xF6rper"
+    3300022: Oberschenkel_L 1
+    3300024: Oberschenkel_R 1
+    3300026: Schultergelenk
+    3300028: Schulterverbreiterung
+    3300030: Unterarm_L 1
+    3300032: Unterarm_L_Lauf_Oben
+    3300034: Unterarm_L_Lauf_Unten
+    3300036: Unterarm_R 1
+    3300038: Unterarm_R_Lauf_Oben
+    3300040: Unterarm_R_Lauf_Unten
+    3300042: Unterkoerper
+    3300044: Unterschenkel_L 1
+    3300046: Unterschenkel_R 1
+    4300000: Fuss_L
+    4300002: Unterschenkel_L
+    4300004: Knie_Zylinder_L
+    4300006: Knie_L
+    4300008: Oberschenkel_L
+    4300010: Fuss_R
+    4300012: Unterschenkel_R
+    4300014: Knie_Zylinder_R
+    4300016: Knie_R
+    4300018: Oberschenkel_R
+    4300020: Huefte
+    4300022: Unterkoerper
+    4300024: Unterarm_L_Lauf_Oben
+    4300026: Unterarm_L_Lauf_Unten
+    4300028: Unterarm_L
+    4300030: Oberarm_L
+    4300032: Unterarm_R_Lauf_Unten
+    4300034: Unterarm_R_Lauf_Oben
+    4300036: Unterarm_R
+    4300038: Oberarm_R
+    4300040: Bruskorb
+    4300042: Schulterverbreiterung
+    4300044: "Oberk\xF6rper"
+    4300046: Schultergelenk
+    6400000: Bruskorb
+    6400002: Fuss_L 1
+    6400004: Fuss_R 1
+    6400006: Huefte
+    6400008: Knie_L 1
+    6400010: Knie_R 1
+    6400012: Knie_Zylinder_L
+    6400014: Knie_Zylinder_R
+    6400016: Oberarm_L 1
+    6400018: Oberarm_R 1
+    6400020: "Oberk\xF6rper"
+    6400022: Oberschenkel_L 1
+    6400024: Oberschenkel_R 1
+    6400026: Schultergelenk
+    6400028: Schulterverbreiterung
+    6400030: Unterarm_L 1
+    6400032: Unterarm_L_Lauf_Oben
+    6400034: Unterarm_L_Lauf_Unten
+    6400036: Unterarm_R 1
+    6400038: Unterarm_R_Lauf_Oben
+    6400040: Unterarm_R_Lauf_Unten
+    6400042: Unterkoerper
+    6400044: Unterschenkel_L 1
+    6400046: Unterschenkel_R 1
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: pointLight1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: f2d57642647315a4fa00d1009838bce9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
